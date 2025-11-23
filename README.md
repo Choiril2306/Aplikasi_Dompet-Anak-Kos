@@ -1,4 +1,4 @@
-**Pengembang Kelompok 4**
+**Pengembang**
 * Choiril 
 * Widya
 
